@@ -6,9 +6,9 @@ import org.bukkit.Location;
 
 import io.github.thebusybiscuit.slimefun4.libraries.dough.blocks.BlockPosition;
 
-import me.mrCookieSlime.Slimefun.api.BlockStorage;
 
 import lombok.experimental.UtilityClass;
+import me.mrCookieSlime.Slimefun.api.BlockStorage;
 
 /**
  * Utility class for {@link BlockStorage}.

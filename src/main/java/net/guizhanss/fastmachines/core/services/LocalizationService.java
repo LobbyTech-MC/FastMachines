@@ -14,7 +14,6 @@ import net.guizhanss.fastmachines.utils.FileUtils;
 import net.guizhanss.guizhanlib.minecraft.utils.ChatUtil;
 import net.guizhanss.guizhanlib.slimefun.addon.SlimefunLocalization;
 
-@SuppressWarnings("ConstantConditions")
 public final class LocalizationService extends SlimefunLocalization {
     private static final String FOLDER_NAME = "lang";
     private final FastMachines plugin;
